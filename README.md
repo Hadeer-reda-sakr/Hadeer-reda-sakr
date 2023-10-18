@@ -6,16 +6,12 @@
  </a>
 </h3>
 
-
-
-
-<h3>
-    <a class="heading-link" href="#----Hi-there------">
-    Hi there  
-        <img src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30px" data-animated-image="" data-canonical-src="" style="max-width: 100%;">  I'm Hadeer Reda Sakr
-   
- </a>
+<h3 class="heading-link">
+    I am Full Stack (.NET Developer)
 </h3>
+
+
+
 
 <br>
 <img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='600px'>
