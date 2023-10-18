@@ -5,7 +5,7 @@
 
 - 🔭I’m having a training at Information Technology Institute (ITI) 
 - 🌱 I’m learning Exploring Technical Content Writing. 
-- 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hadeer-sakr-0a7430185//)  
+- 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hadeer-sakr-0a7430185//)  
 - ⚡ In my free time, I solve problems on Hacker Rank and read tech articles. 
  
 ## 👨‍💻 About me:-
