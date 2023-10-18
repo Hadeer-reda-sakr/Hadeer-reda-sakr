@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Hadeer Reda Sakr
 ### I am Full Stack  .NET Developer
-<img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='500px' width='500px' >
+<img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='200px' width='600px' >
 
 
 
