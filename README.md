@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Hadeer Reda Sakr
 ### I'm Full Stack (.NET Developer)
+<br>
 <img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='600px' >
 
-
+<br>
 - 🔭I’m having a training at Information Technology Institute (ITI) 
 - 🌱 I’m learning Exploring Technical Content Writing. 
 - 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hadeer-sakr-0a7430185//)  
