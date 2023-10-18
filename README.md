@@ -7,7 +7,7 @@
 
 
  
-  <span font-Weight='25px'>  <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='50px' width='50px'> programming is my passion which push me to challenge my self to learn to be the first ,learning ,work with team , responsibility my principles to achieve what I aim to be by using my knowledge to leverage my skills in Software Development Using Different technologies, understanding the requirements of Client and reach to the perfect job  </span>
+  <span>  <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='40px' width='40px'> programming is my passion which push me to challenge my self to learn to be the first ,learning ,work with team , responsibility my principles to achieve what I aim to be by using my knowledge to leverage my skills in Software Development Using Different technologies, understanding the requirements of Client and reach to the perfect job  </span>
 
 
 
