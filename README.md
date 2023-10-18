@@ -5,7 +5,8 @@
 
 
 
-#### I am Full Stack / .NET Developer
+#### I am Full Stack 
+<img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='50px' width='50px' > .NET Developer
 programming is my passion which push me to challenge my self to learn to be the first ,learning ,work with team , responsibility my principles to achieve what I aim to be by using my knowledge to leverage my skills in Software Development Using Different technologies, understanding the requirements of Client and reach to the perfect job 
 
 Skills:  JS / HTML / CSS/HTML5/CSS3/Angular/Bootstrap5/C #/ ASP.NET/Web.APi/MVC/LINKQ/EF Core/SQL server
