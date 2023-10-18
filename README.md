@@ -1,5 +1,5 @@
-### Hi there 👋, My Name is Hadeer Reda Sakr
-### I am Full Stack  .NET Developer
+### Hi there 👋, I'm Hadeer Reda Sakr
+### I'm Full Stack (.NET Developer)
 <img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='600px' >
 
 
@@ -11,10 +11,11 @@
 
 
 
-## Skills:-  
+## Skills && Experience:-  
+
 JS / HTML / CSS /HTML5 / CSS3 / Angular / Bootstrap5 / C# / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
 
-- 🔭 I’m currently working on this page. 
+
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hadeer-reda-sakr) 
