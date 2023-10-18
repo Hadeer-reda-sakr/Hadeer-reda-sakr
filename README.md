@@ -17,7 +17,7 @@
 
 
 
-<h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link" href="#hammer_and_wrench-languages-and-tools-">🛠️ Languages and Tools :</a></h3> 
+<h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-languages-and-tools-" color='Black'>🛠️ Languages and Tools :</a></h3> 
  
 JS / HTML / CSS /HTML5 / CSS3 / Angular / Bootstrap5 / C# / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
 
