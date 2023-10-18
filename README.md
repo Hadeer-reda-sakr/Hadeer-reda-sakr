@@ -10,7 +10,7 @@
 
 <h3>
     <a class="heading-link" href="#----Hi-there------">
-   I'm <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='30px' width='40px'>  Full Stack (.NET Developer)
+   I'm <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='10px' width='10px'>  Full Stack (.NET Developer)
    
  </a>
 </h3>
