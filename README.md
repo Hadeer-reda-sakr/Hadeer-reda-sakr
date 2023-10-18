@@ -11,7 +11,8 @@
 
 
 
-Skills:  JS / HTML / CSS/HTML5/CSS3/Angular/Bootstrap5/C #/ ASP.NET/Web.APi/MVC/LINKQ/EF Core/SQL server
+## Skills:-  
+JS / HTML / CSS/HTML5/CSS3/Angular/Bootstrap5/C #/ ASP.NET/Web.APi/MVC/LINKQ/EF Core/SQL server
 
 - 🔭 I’m currently working on this page. 
 
