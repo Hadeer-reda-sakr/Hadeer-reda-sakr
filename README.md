@@ -2,11 +2,12 @@
 
 <img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='300px' border-radius='10 px'>
 
+###I am Full Stack  .NET Developer
 
 
 
  
-  <span fontWeight='25px'>  <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='50px' width='50px'> I am Full Stack  .NET Developer </span>
+  <span fontWeight='25px'>  <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='50px' width='50px'>  </span>
 
 programming is my passion which push me to challenge my self to learn to be the first ,learning ,work with team , responsibility my principles to achieve what I aim to be by using my knowledge to leverage my skills in Software Development Using Different technologies, understanding the requirements of Client and reach to the perfect job 
 
