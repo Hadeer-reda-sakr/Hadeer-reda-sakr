@@ -6,16 +6,11 @@
  </a>
 </h3>
 
-<h3 >
-   <a class="heading-link" herf="#">
-        I am Full Stack (.NET Developer)
-   </a>
-</h3>
+
 
 <h3>
     <a class="heading-link" href="#----Hi-there------">
-    Hi there  
- I'm Hadeer Reda Sakr
+   I am Full Stack (.NET Developer)
    
  </a>
 </h3>
