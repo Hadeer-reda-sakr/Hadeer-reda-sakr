@@ -9,7 +9,7 @@
 
 <h3>
     <a class="heading-link" href="#----Hi-there------">
- I'm Full Stack  <img src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">  (.NET Developer)
+ I'm Full Stack  <img src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="30px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" ">  (.NET Developer)
    
  </a>
 </h3>
