@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Hadeer Reda Sakr
 
-<img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='300px' margin='200px 50px'>
+<img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='300px' border-radius='10px'>
 
 
 
