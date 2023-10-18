@@ -1,9 +1,10 @@
+### Hi there 👋, My Name is Hadeer Reda Sakr
 
 <img src='https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif' height='300px' width='300px' margin='200px 50px'>
 
 
 
-### Hi there 👋, My Name is Hadeer Reda Sakr
+
 #### I am Full Stack / .NET Developer
 programming is my passion which push me to challenge my self to learn to be the first ,learning ,work with team , responsibility my principles to achieve what I aim to be by using my knowledge to leverage my skills in Software Development Using Different technologies, understanding the requirements of Client and reach to the perfect job 
 
