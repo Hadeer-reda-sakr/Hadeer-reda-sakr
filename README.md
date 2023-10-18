@@ -12,11 +12,12 @@
 
 
 ## Skills:-  
-JS / HTML / CSS/HTML5/CSS3/Angular/Bootstrap5/C #/ ASP.NET/Web.APi/MVC/LINKQ/EF Core/SQL server
+JS / HTML / CSS /HTML5 / CSS3 / Angular / Bootstrap5 / C# / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
 
 - 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hadeer-reda-sakr) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Hadeer-reda-sakr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hadeer-sakr-0a7430185//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22487568/hadeer-sakr)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hadeer-sakr-0a7430185//) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22487568/hadeer-sakr)  
 
