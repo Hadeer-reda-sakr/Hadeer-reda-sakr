@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on I’m having a training at Information Technology Institute (ITI) 
 - 🌱 I’m currently learning Exploring Technical Content Writing. 
-- 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/hadeer-sakr-0a7430185/)  
+- 📫 How to reach me:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/hadeer-sakr-0a7430185//)  
 - ⚡ Fun fact:  In my free time, I solve problems on Hacker Rank and read tech articles.  
  
 ## 👨‍💻 About me:-
@@ -25,7 +25,7 @@ JS / HTML / CSS /HTML5 / CSS3 / Angular / Bootstrap5 / C# / ASP.NET / Web.APi / 
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hadeer-reda-sakr) 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/hadeer-sakr-0a7430185/) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/hadeer-sakr-0a7430185//) 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22487568/hadeer-sakr)  
 
 
