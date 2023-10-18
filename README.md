@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+programming is my passion which push me to challenge my self to learn to be the first ,learning ,work with team , responsibility my principles to achieve what I aim to be by using my knowledge to leverage my skills in Software Development Using Different technologies, understanding the requirements of Client and reach to the perfect job
 <!--
 **Hadeer-reda-sakr/Hadeer-reda-sakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
