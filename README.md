@@ -48,7 +48,7 @@
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
 
 
-
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>
 </div>
  
  Angular / Bootstrap5 / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
