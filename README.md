@@ -34,7 +34,7 @@
 
 
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-languages-and-tools-" >🛠️ Languages and Tools :</a></h3> 
-icons/CSS.svg
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  
 JS / HTML / CSS /HTML5 / CSS3 / Angular / Bootstrap5 / C# / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
 
