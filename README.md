@@ -46,7 +46,6 @@
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-     <a target="_blank" rel="noopener noreferrer" href="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f"><img src="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
  
@@ -56,7 +55,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hadeer-reda-sakr) [ &nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hadeer-sakr-0a7430185//)  [&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22487568/hadeer-sakr)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hadeer-reda-sakr)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hadeer-sakr-0a7430185//)&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22487568/hadeer-sakr)   
 
 
 
