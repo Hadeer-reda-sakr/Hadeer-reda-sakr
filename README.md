@@ -34,6 +34,7 @@
 
 
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-languages-and-tools-" >🛠️ Languages and Tools :</a></h3> 
+icons/CSS.svg
  
 JS / HTML / CSS /HTML5 / CSS3 / Angular / Bootstrap5 / C# / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
 
