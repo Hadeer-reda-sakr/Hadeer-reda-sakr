@@ -49,12 +49,10 @@
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
  
- ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
-
-
-
-
-
+<h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-languages-and-tools-" > Social Information</a></h3> 
+<div>
+       <a target="_blank" rel="noopener noreferrer" href="https://github.com/Hadeer-reda-sakr"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="github" alt='github' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+</div>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hadeer-reda-sakr)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hadeer-sakr-0a7430185//)&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22487568/hadeer-sakr)   
 
 
