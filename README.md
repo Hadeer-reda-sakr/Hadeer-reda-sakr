@@ -44,6 +44,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".NET" alt=".NET" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
+
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
+
+
+
 </div>
  
  Angular / Bootstrap5 / ASP.NET / Web.APi / MVC / LINKQ / EFCore / SQL server
