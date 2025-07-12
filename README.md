@@ -10,7 +10,7 @@
 
 <h3>
     <a class="heading-link" href="#----Hi-there------">
-   I'm back-end (.NET Developer)
+   I'm a back-end (.NET Developer)
    
  </a>
 </h3>
