@@ -10,7 +10,7 @@
 
 <h3>
     <a class="heading-link" href="#----Hi-there------">
-   I'm Full Stack (.NET Developer)
+   I'm back-end (.NET Developer)
    
  </a>
 </h3>
